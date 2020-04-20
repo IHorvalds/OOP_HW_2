@@ -3,7 +3,6 @@
 #include <vector>
 #include <iostream>
 #include <functional>
-#include <type_traits>
 #include <algorithm> // for std::max
 #include "ValueException.h"
 
